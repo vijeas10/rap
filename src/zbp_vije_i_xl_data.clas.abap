@@ -1,0 +1,5 @@
+CLASS zbp_vije_i_xl_data DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zvije_i_xl_user.
+ENDCLASS.
+
+CLASS zbp_vije_i_xl_data IMPLEMENTATION.
+ENDCLASS.
